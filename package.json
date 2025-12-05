@@ -1,0 +1,17 @@
+{
+  "name": "@demo/root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=@demo/main-app",
+    "build": "npm run build --workspace=@demo/shared-ui && npm run build --workspace=@demo/main-app",
+    "preview": "npm run preview --workspace=@demo/main-app",
+    "clean": "rm -rf node_modules packages/*/node_modules packages/*/dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
