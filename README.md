@@ -6,6 +6,10 @@ A modern React 19 application built with TypeScript, featuring a semi-micro-fron
 
 **Generated with:** Claude Sonnet 4.5 (Model: `claude-sonnet-4-5-20250929`)
 
+## Screenshot
+
+![Demo Application Screenshot](./assets/screenshot.png)
+
 ## Features
 
 - **React 19** with TypeScript and hooks-only (no classes)
