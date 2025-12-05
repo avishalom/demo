@@ -6,6 +6,15 @@ A modern React 19 application built with TypeScript, featuring a semi-micro-fron
 
 **Generated with:** Claude Sonnet 4.5 (Model: `claude-sonnet-4-5-20250929`)
 
+### Generation Stats
+- **Total cost:** $3.04
+- **API duration:** 15m 33s
+- **Wall time:** 1h 31m 33s
+- **Code changes:** 1,816 lines added, 4 lines removed
+- **Model usage:**
+  - Claude Haiku: 28.1k input, 1.2k output ($0.0340)
+  - Claude Sonnet: 667 input, 61.9k output, 3.7m cache read, 257.8k cache write ($3.01)
+
 ## Screenshot
 
 ![Demo Application Screenshot](./assets/screenshot.png)
