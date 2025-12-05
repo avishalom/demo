@@ -1,6 +1,10 @@
 # Demo React Application
 
+> **See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for the original project requirements and specifications.**
+
 A modern React 19 application built with TypeScript, featuring a semi-micro-frontend architecture with Material UI components, dark/light theme support, and AG Grid compatibility.
+
+**Generated with:** Claude Sonnet 4.5 (Model: `claude-sonnet-4-5-20250929`)
 
 ## Features
 
